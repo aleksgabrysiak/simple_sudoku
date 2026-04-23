@@ -1,6 +1,6 @@
 const CACHE_NAME = 'sudoku-v1';
 const urlsToCache = [
-  './sudoku.html',
+  './index.html',
   './manifest.json'
 ];
 

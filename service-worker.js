@@ -1,7 +1,7 @@
 const CACHE_NAME = 'sudoku-v1';
 const urlsToCache = [
-  './index.html',
-  './manifest.json'
+  './simple_sudoku/index.html',
+  './simple_sudoku/manifest.json'
 ];
 
 // Install service worker and cache resources

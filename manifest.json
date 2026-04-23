@@ -2,7 +2,7 @@
   "name": "Sudoku Game",
   "short_name": "Sudoku",
   "description": "A classic Sudoku puzzle game with multiple difficulty levels",
-  "start_url": "./sudoku.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
